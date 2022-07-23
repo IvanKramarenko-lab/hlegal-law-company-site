@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c93b0a9-9128-4f20-b420-f4454abfb229" name="Changes" comment="" />
+    <list default="true" id="5c93b0a9-9128-4f20-b420-f4454abfb229" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +22,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/learning/JS/fe-pro-arrays-methods",
+    "last_opened_file_path": "D:/learning/hlegal-law-company",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "MTConfigurable",
     "vue.rearranger.settings.migration": "true"
@@ -37,6 +39,8 @@
       <workItem from="1655931070417" duration="31000" />
       <workItem from="1655931150919" duration="108000" />
       <workItem from="1656015800946" duration="13000" />
+      <workItem from="1658608645432" duration="92000" />
+      <workItem from="1658608953409" duration="5000" />
     </task>
     <servers />
   </component>
